@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53095614-6bd4-4b53-adea-56f3d4213504" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.OthelloGame/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.OthelloGame/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.OthelloGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1.OthelloGame/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +21,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -29,10 +33,10 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="deletionFromPopupRequiresConfirmation" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -52,6 +56,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -75,55 +80,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="223" y="68" width="1089" height="718" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586569121981">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="223" y="68" width="1089" height="718" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586569121981" />
-    <state x="526" y="161" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586574626276">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="526" y="161" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1586574626276" />
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1588152654810">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588152654810" />
-    <state width="1493" height="435" key="GridCell.Tab.0.bottom" timestamp="1588154229423">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="435" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588154229423" />
-    <state width="1493" height="435" key="GridCell.Tab.0.center" timestamp="1588154229423">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="435" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588154229423" />
-    <state width="1493" height="435" key="GridCell.Tab.0.left" timestamp="1588154229423">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="435" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588154229423" />
-    <state width="1493" height="435" key="GridCell.Tab.0.right" timestamp="1588154229423">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="435" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588154229423" />
-    <state x="277" y="56" key="SettingsEditor" timestamp="1586530948311">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586530948311" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1586593609634">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586593609634" />
-    <state x="195" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586534585443">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="195" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1586534585443" />
-    <state x="209" y="34" key="new project wizard" timestamp="1586531882679">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586531882679" />
-    <state x="46" y="145" key="search.everywhere.popup" timestamp="1586532102073">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="46" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586532102073" />
   </component>
 </project>
